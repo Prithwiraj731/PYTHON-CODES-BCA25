@@ -1,6 +1,4 @@
-# !/bin/bash
 git add .
-echo "Enter commit message: "
-read msg
+$msg = Read-Host "Enter commit message"
 git commit -m "$msg"
 git push origin main
