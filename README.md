@@ -27,21 +27,25 @@ This repository contains multiple Python scripts covering fundamental programmin
 3. Run any script using Python:
    ```python
    python filename.py
-📌 Features
-✅ Beginner-friendly Python programs 🐍
-✅ Well-structured and easy-to-understand code 🏗️
-✅ Covers fundamental programming concepts 📚🤝 Contributing
+📌 Features <br>
+✅ Beginner-friendly Python programs 🐍<br>
+✅ Well-structured and easy-to-understand code 🏗️<br>
+✅ Covers fundamental programming concepts 📚
+<br>
+🤝 Contributing <br>
 Contributions are welcome! If you’d like to add improvements:
+<br>
+Fork the repository 🍴<br>
+Create a new branch (git checkout -b feature-branch) 🌿<br>
+Make your changes and commit (git commit -m "Your message") 📝<br>
+Push to your branch (git push origin feature-branch) 🚀<br>
+Create a Pull Request 🛠️<br>
 
-Fork the repository 🍴
-Create a new branch (git checkout -b feature-branch) 🌿
-Make your changes and commit (git commit -m "Your message") 📝
-Push to your branch (git push origin feature-branch) 🚀
-Create a Pull Request 🛠️
-🛠 Technologies Used
-Python 🐍
-📬 Contact
-Have questions or suggestions? Feel free to reach out:
+🛠 Technologies Used<br>
+Python 🐍<br>
+
+📬 Contact<br>
+Have questions or suggestions? Feel free to reach out:<br>
 📧 Email: [your-email@example.com]
 🐙 GitHub: Prithwiraj731
 
