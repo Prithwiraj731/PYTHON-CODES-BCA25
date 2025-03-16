@@ -20,8 +20,10 @@ This repository contains multiple Python scripts covering fundamental programmin
 1. Clone this repository:  
    ```sh
    git clone https://github.com/Prithwiraj731/PYTHON-CODES-BCA25.git
-cd PYTHON-CODES-BCA25
-python filename.py
+2. ```sh
+   cd PYTHON-CODES-BCA25
+3. ```python
+   python filename.py
 📌 Features
 ✅ Beginner-friendly Python programs 🐍
 ✅ Well-structured and easy-to-understand code 🏗️
