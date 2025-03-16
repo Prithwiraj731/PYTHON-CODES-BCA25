@@ -13,6 +13,7 @@ This repository contains multiple Python scripts covering fundamental programmin
 | `largest.py`         | Finds the largest number in a list. |
 | `positveOrNegative.py` | Determines if a number is positive or negative. |
 | `reverse.py`         | Reverses a given number or string. |
+| `AND SOO ON...`      | UPDATING DAILY ;)
 
 ---
 
