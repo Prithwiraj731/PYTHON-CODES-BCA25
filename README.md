@@ -46,7 +46,7 @@ Python 🐍<br>
 
 📬 Contact<br>
 Have questions or suggestions? Feel free to reach out:<br>
-📧 Email: [your-email@example.com]
+📧 Email: [prithwi1016@gmail.com]
 🐙 GitHub: Prithwiraj731
 
 🌟 If you find this repository helpful, don’t forget to give it a star! ⭐✨
